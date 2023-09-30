@@ -1,7 +1,9 @@
 #root{
   padding: 5px;
+ display: grid;
+ place-items: center;
 }
 
 body{
-  background-color: #91dfc9b8;
+  background-color: #91dfc9b8; 
 }
